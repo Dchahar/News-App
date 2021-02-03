@@ -22,6 +22,6 @@ A simple list of news items.
 - Xcode 11 or higher
 - iOS 13 or higher
 
-**Licence**
+## Licence
 
 Distributed under the MIT License.
